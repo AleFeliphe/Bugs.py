@@ -1,0 +1,9 @@
+print ("Digite o valor do Produto")
+valorproduto = float(input())
+
+print ("Digite o Valor Recebido")
+valorrecebido = float(input())
+
+valortroco = valorrecebido - valorproduto
+
+print ("O valor do Troco é", valortroco, "\n\n Obrigado Pela Preferencia!!!")
